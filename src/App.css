@@ -1,0 +1,12 @@
+span.action {
+  padding: 0px 11px;
+  background: green;
+  color: #fff;
+  border-radius: 10px;
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+.singleTodo{
+  margin: 10px auto;
+}
